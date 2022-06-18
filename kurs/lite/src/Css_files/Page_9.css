@@ -1,0 +1,24 @@
+li  {
+    list-style-type: none; /* РЈР±РёСЂР°РµРј РјР°СЂРєРµСЂС‹ */
+}
+
+.formAnswer{
+    visibility: hidden;
+    
+}
+
+.btnVisible {
+    visibility: visible;
+}
+
+.OtwetForm{
+    position: relative;
+    left: 450px;
+    top: 0px;
+}
+
+.CheckOtwet{
+    position: relative;
+    left: 450px;
+
+}

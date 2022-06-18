@@ -1,0 +1,41 @@
+.container{
+position: absolute;
+width: 285px;
+height: 298px;
+background: #3DB7BF;
+border-radius: 20px;
+top: 150px;
+left: 550px;
+}
+
+h3{
+ text-align: center;
+}
+
+.button_reg{
+position: absolute;
+width: 180px;
+height: 45px;
+border-radius: 20px;
+border:0;
+bottom: 170px;
+left: 20%;
+}
+
+.button_reg:hover{
+    background-color: #C4C4C4;
+}
+
+.button_auto{
+position: absolute;
+width: 180px;
+height: 45px;
+border-radius: 20px;
+border:0;
+bottom:105px;
+left: 20%;
+}
+
+.button_auto:hover{
+    background-color: #C4C4C4;
+}

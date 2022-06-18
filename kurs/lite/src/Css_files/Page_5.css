@@ -1,0 +1,203 @@
+.newMag{
+    position: absolute;
+    background: #3DB7BF;
+    width: 300px;
+    height: 200px;
+    left: 27%;
+    border-radius: 20px;
+    top:350px; 
+
+}
+
+.input_addr{
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+    border: 0;
+    left: 15%; 
+    bottom: 120px;
+}
+.input_addr:hover{
+    background-color: rgb(146, 146, 146);
+}
+.input_gor{
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+    border: 0;
+    left: 15%; 
+    bottom: 95px;
+}
+.input_gor:hover{
+    background-color: rgb(146, 146, 146);
+}
+
+.button_newMag{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    left: 15%; 
+    bottom: 40px;
+    background-color: rgb(156, 156, 152);
+}
+
+.button_newMag:hover{
+    background-color: rgb(164, 162, 159);
+}
+
+.delMag{
+    position: absolute;
+    background: #3DB7BF;
+    width: 300px;
+    height: 195px;
+    left: 27%;
+    border-radius: 20px;
+    top:150px;
+    
+}
+
+.input_delMag{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    left: 15%; 
+    bottom: 95px;
+}
+.input_delMag:hover{
+    background-color: rgb(146, 146, 146);
+}
+
+.button_delMag{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    left: 15%; 
+    bottom: 40px;
+    background-color: rgb(156, 156, 152);
+}
+
+.button_delMag:hover{
+    background-color: rgb(164, 162, 159);
+}
+
+.getReq{
+     position: absolute;
+    background: #3DB7BF;
+    width: 250px;
+    height: 150px;
+    left: 5%;
+    border-radius: 20px;
+    top:150px;
+}
+
+.button_checkS{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    left: 15%; 
+    bottom: 40px;
+    background-color: rgb(156, 156, 152);
+}
+
+.function_newAdmin{
+    position: absolute;
+    background: #3DB7BF;
+    width: 300px;
+    height: 200px;
+    left: 20%;
+    border-radius: 20px;
+    top:350px; 
+}
+
+.function_ChRole{
+    position: absolute;
+    background: #3DB7BF;
+    width: 300px;
+    height: 200px;
+    left: 5%;
+    border-radius: 20px ;
+    top: 330px
+}
+
+.input_changeRole{
+    position: absolute;
+    border-radius: 5px;
+    left:20px;
+}
+
+.button_changeRole{
+    position: absolute;
+    border-radius: 5px;
+    background-color: #b1b8b8;
+    left: 20px;
+}
+
+.button_changeRole:hover{
+    background-color: thistle;
+}
+
+.function_newAdmin{
+    position: absolute;
+    background: #3DB7BF;
+    width: 300px;
+    height: 200px;
+    left: 5%;
+    border-radius: 20px ;
+    top: 560px;
+}
+
+.input_newdmin{
+    position: absolute;
+    border-radius: 5px;
+    left:20px;
+}
+
+.button_newAdmin{
+    position: absolute;
+    border-radius: 5px;
+    background-color: #b1b8b8;
+    left: 20px;
+}
+
+.button_newAdmin:hover{
+    background-color: thistle;
+}
+
+.button_checkS{
+    position: absolute;
+    left: 595px;
+}
+
+.function_SRole{
+    position: absolute;
+    background: #3DB7BF;
+    width: 300px;
+    height: 200px;
+    left: 56%;
+    border-radius: 20px ;
+    top: 355px
+}
+
+.function_BRole{
+    position: absolute;
+    background: #3DB7BF;
+    width: 300px;
+    height: 200px;
+    left: 56%;
+    border-radius: 20px ;
+    top: 150px
+}
+
+.button_checkS{
+    display: none;
+}

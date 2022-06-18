@@ -1,0 +1,155 @@
+.right_panel{
+    position: absolute;
+    background-color: #3DB7BF;
+    width: 249px;
+    height: 900px;
+    top:0%;
+    left: 1100px;
+    text-align: center;
+}
+
+.img_profil{
+    position: relative;
+    left: 0%;
+    width: 70px;
+    height: 70px;
+    top:40px
+}
+
+.header_panel{
+    position: absolute;
+    background-color:#3DB7BF;
+    width: 1100px;
+    height: 126px;
+    text-align: center;
+    top:0%;
+}
+
+
+
+.MoneyInfo{
+    position: absolute;
+    top:160px;
+    left: 400px;
+    background-color: #90cad9;
+    width: 500px;
+    height: 150px;
+    border-radius: 30px;
+}
+
+.button_moneyInfo{
+    position: absolute;
+    top: 110px;
+    left: 40px;
+    width: 180px;
+    height: 25px;
+    border-radius: 20px;
+    border:0;
+}
+
+.button_moneyInfo:hover{
+    background-color: #9fa4a5;
+}
+
+
+.input_Shop{
+    position: absolute;
+    top: 70px;
+    left: 40px;
+    width: 200px;
+    height: 25px;
+    border-radius: 20px;
+    border:0;
+}
+
+.MoneyA{
+    position: absolute;
+    top:320px;
+    left: 400px;
+    background-color: #90cad9;
+    width: 500px;
+    height: 90px;
+    border-radius: 30px;
+}
+
+.button_moneyA{
+    position: absolute;
+    left: 40px;
+    border-radius: 20px;
+    border:0;
+}
+
+.button_moneyA:hover{
+    background-color: #9fa4a5;
+}
+
+.Request{
+    position: absolute;
+    top: 420px;
+    left: 400px;
+    background-color: #90cad9;
+    width: 500px;
+    height: 110px;
+    border-radius: 30px;
+}
+
+.input_city{
+    position: absolute;
+    top: 50px;
+    left: 40px;
+    width: 180px;
+    height: 25px;
+    border-radius: 20px;
+    border:0;
+}
+
+.input_city:hover{
+    background-color: #9fa4a5;
+}
+
+.button_request{
+    position: absolute;
+    left: 40px;
+    border-radius: 20px;
+    border:0;
+}
+
+.button_request:hover{
+    background-color: #9fa4a5;
+}
+
+
+.DelReq{
+    position: absolute;
+    top:540px;
+    left: 400px;
+    background-color: #90cad9;
+    width: 500px;
+    height: 130px;
+    border-radius: 30px;
+}
+
+.input_delReq{
+    position: absolute;
+    top: 50px;
+    left: 40px;
+    width: 180px;
+    height: 25px;
+    border-radius: 20px;
+    border:0;
+}
+
+.input_delReq:hover{
+    background-color: #9fa4a5;
+}
+
+.button_delReq{
+    position: absolute;
+    left: 40px;
+    border-radius: 20px;
+    border:0;
+}
+
+.button_delReq:hover{
+    background-color: #9fa4a5;
+}

@@ -1,0 +1,86 @@
+.container_auto{
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    background: #3DB7BF;
+    border-radius: 20px;
+    top: 50px;
+    left: 550px;
+}
+
+.icon_auto{
+    position: relative;
+    display: block;
+    left: 40%;
+}
+
+.input_login_a{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    left: 15%;
+}
+
+.input_login_a:hover{
+    background-color: rgb(156, 156, 152);
+}
+
+.input_password_a{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    left: 15%; 
+    bottom: 280px;
+}
+
+.input_password_a:hover{
+    background-color: rgb(156, 156, 152);
+}
+
+.input_codeword_a{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    left: 15%; 
+    bottom: 230px;
+}
+
+.input_codeword_a:hover{
+    background-color: rgb(156, 156, 152);
+}
+
+.button_auto_a{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    left: 15%; 
+    bottom: 160px;
+    background-color: rgb(156, 156, 152);
+}
+
+.button_auto_a:hover{
+    background-color:rgb(121, 120, 118)
+}
+
+.button_back_a{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    left: 15%; 
+    bottom: 100px;
+    background-color: rgb(140, 140, 140);
+}
+
+.button_back_a:hover{
+    background-color:rgb(121, 120, 118)
+}
